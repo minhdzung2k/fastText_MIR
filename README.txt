@@ -11,3 +11,6 @@ NTCIR-12_MathIR_Wikipedia_Corpus\MathTagArticles\wpmath...
 - The results are saved in the Retrieval_Results folder.
 
 - Tool to help evaluate retrieval results: Trec_eval tool (https://trec.nist.gov/trec_eval/)
+
+- Example results:
+![Image](https://github.com/user-attachments/assets/450d2d67-b422-432c-93ae-4b367d8a9ee0)
