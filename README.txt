@@ -4,3 +4,5 @@
 - Mô hình chạy trên python 3.10, các thư viện được sử dụng trong file requirements.txt
 - Kết quả được lưu trong folder Retrieval_Results
 - Công cụ hỗ trợ đánh giá kết quả tìm kiếm: Trec_eval tool (https://trec.nist.gov/trec_eval/)
+- Kết quả Demo:
+![Image](https://github.com/user-attachments/assets/f0747f2a-3da3-46f4-85f6-ce726ec6f520)
