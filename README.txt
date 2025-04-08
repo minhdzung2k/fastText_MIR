@@ -5,4 +5,4 @@
 - Kết quả được lưu trong folder Retrieval_Results
 - Công cụ hỗ trợ đánh giá kết quả tìm kiếm: Trec_eval tool (https://trec.nist.gov/trec_eval/)
 - Kết quả Demo:
-![Image](https://github.com/user-attachments/assets/f0747f2a-3da3-46f4-85f6-ce726ec6f520)
+![image_alt](https://github.com/minhdzung2k/fastText_MIR/blob/master/result_example.png?raw=true)
